@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(132, 225, 173);
+}
+
+header {
+    font: normal 16px sans-serif;
+    color: white;
+    text-align: center;
+
+    background-image: linear-gradient(to bottom, rgb(60, 215, 129), rgb(26, 92, 56));
+    
+}
+
+header > p {
+    display: inline-block;
+    font-size: 10px;
+}

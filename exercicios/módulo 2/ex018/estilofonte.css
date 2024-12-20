@@ -1,0 +1,17 @@
+@charset "UTf-8";
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font: italic bolder 16px 'Work Sans', sans-serif;
+}
+
+p {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: 'kaushan script', Times, serif;
+    font-size: 3em;
+}
